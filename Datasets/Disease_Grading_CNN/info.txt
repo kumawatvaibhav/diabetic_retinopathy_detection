@@ -1,0 +1,1 @@
+This dataset is used for CNN(image classification) model in the project
